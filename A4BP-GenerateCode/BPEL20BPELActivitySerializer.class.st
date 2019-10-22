@@ -1,0 +1,5 @@
+Class {
+	#name : #BPEL20BPELActivitySerializer,
+	#superclass : #Object,
+	#category : #'A4BP-GenerateCode-BPEL20-org-eclipse-bpel-model-extensions'
+}

@@ -1,0 +1,29 @@
+Class {
+	#name : #BPEL20PartnerlinktypePackage,
+	#superclass : #Object,
+	#instVars : [
+		'ROLE__ID',
+		'PARTNER_LINK_TYPE',
+		'ROLE__ELEMENT_TYPE',
+		'ROLE__ELEMENT',
+		'PARTNER_LINK_TYPE__ROLE',
+		'ROLE__PORT_TYPE',
+		'ROLE__DOCUMENTATION_ELEMENT',
+		'eNS_URI',
+		'eNAME',
+		'PARTNER_LINK_TYPE__ID',
+		'PARTNER_LINK_TYPE__REQUIRED',
+		'PARTNER_LINK_TYPE__DOCUMENTATION_ELEMENT',
+		'PARTNER_LINK_TYPE__ELEMENT',
+		'ROLE',
+		'ROLE__REQUIRED',
+		'ROLE__NAME',
+		'eNS_PREFIX',
+		'PARTNER_LINK_TYPE__ELEMENT_TYPE',
+		'ROLE_FEATURE_COUNT',
+		'PARTNER_LINK_TYPE__NAME',
+		'PARTNER_LINK_TYPE_FEATURE_COUNT',
+		'eINSTANCE'
+	],
+	#category : #'A4BP-GenerateCode-BPEL20-org-eclipse-bpel-model-partnerlinktype'
+}
